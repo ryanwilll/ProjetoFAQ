@@ -51,6 +51,10 @@ body {
   justify-content: space-between;
   width: 100%;
 }
+.card-white button img {
+  position: relative;
+  float: right;
+}
 
 .card-white button:hover {
   color: orange;
