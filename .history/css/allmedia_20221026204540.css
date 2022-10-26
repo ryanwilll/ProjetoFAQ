@@ -119,11 +119,11 @@
     background-repeat: no-repeat;
     position: relative;
     height: 100%;
-    width: 100%;
+    width: auto;
   }
   .card-white {
-    max-height: 100%;
-    max-width: 100%;
+    max-height: auto;
+    max-width: auto;
   }
 
   /* .imgs-desktop {
