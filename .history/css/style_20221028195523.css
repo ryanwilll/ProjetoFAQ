@@ -57,7 +57,7 @@ body {
   margin: -3em 0em 1em;
 }
 
-.card-white p {
+.card-white button {
   border-style: none;
   text-align: left;
   background-color: transparent;
@@ -67,7 +67,7 @@ body {
   width: 80vw;
 }
 
-.card-white p img {
+.card-white button img {
   position: relative;
   float: right;
   margin: auto;
@@ -77,12 +77,11 @@ body {
   display: none;
 }
 
-.card-white p:hover {
+.card-white button:hover {
   color: orange;
 }
 
 .card-white .faq-menu .text .question {
-  font-size: 0.9em;
   width: 80vw;
   margin: 1em 0em;
 }
@@ -114,7 +113,8 @@ body {
 
 .seta {
   position: absolute;
-  margin: -1.9em 20em 0em 20em;
+  margin-top: 1.4em;
+  margin-left: -1em;
 }
 .card-white .faq-menu .text.active .seta {
   transform: rotate(180deg);
