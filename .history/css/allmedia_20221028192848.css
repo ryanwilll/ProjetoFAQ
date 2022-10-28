@@ -213,9 +213,6 @@
   }
   .card-white .faq-menu .text .answer {
     max-width: 25vw;
-  }
-  .card-white .faq-menu .text.active .answer {
     font-size: 1em;
-    color: gray;
   }
 }

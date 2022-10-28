@@ -160,12 +160,9 @@
     background: transparent;
   }
   .box-img {
-    display: block;
+    content: "";
     position: absolute;
-    top: 21em;
-    left: 7.5em;
-    z-index: 1;
-    resize: none;
+    background-image: url(../images/illustration-box-desktop.svg);
   }
   .imgs {
     display: none;
@@ -192,9 +189,9 @@
   .card-white .FAQ {
     font-size: 2.5em;
     font-weight: 600;
-    padding-top: 2em;
+    padding-top: 1em;
     box-sizing: border-box;
-    margin-left: 4.5em;
+    margin-left: 3.8em;
   }
   .card-white .faq-menu .text {
     border-bottom: 1px solid rgb(187, 186, 186);
@@ -209,13 +206,8 @@
   }
   .card-white .faq-menu .text .question {
     width: 25vw;
-    font-size: 1.2em;
   }
   .card-white .faq-menu .text .answer {
     max-width: 25vw;
-  }
-  .card-white .faq-menu .text.active .answer {
-    font-size: 1em;
-    color: gray;
   }
 }

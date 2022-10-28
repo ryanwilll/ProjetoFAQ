@@ -215,7 +215,12 @@
     max-width: 25vw;
   }
   .card-white .faq-menu .text.active .answer {
-    font-size: 1em;
-    color: gray;
+    visibility: visible;
+    height: 2.4em;
+    margin: 0.5em 0em;
+    width: 75vw;
+    font-size: 0.7em;
+    margin-bottom: 2em;
+    animation: fade 1s ease-in-out;
   }
 }

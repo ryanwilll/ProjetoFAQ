@@ -215,7 +215,9 @@
     max-width: 25vw;
   }
   .card-white .faq-menu .text.active .answer {
-    font-size: 1em;
-    color: gray;
+    
+    font-size: 0.7em;
+    margin-bottom: 2em;
+    animation: fade 1s ease-in-out;
   }
 }

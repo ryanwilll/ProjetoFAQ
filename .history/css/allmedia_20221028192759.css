@@ -200,6 +200,7 @@
     border-bottom: 1px solid rgb(187, 186, 186);
     width: 25vw;
     margin-right: 6em;
+    font-size: ;
   }
   .card-white button {
     width: 25vw;
@@ -209,13 +210,8 @@
   }
   .card-white .faq-menu .text .question {
     width: 25vw;
-    font-size: 1.2em;
   }
   .card-white .faq-menu .text .answer {
     max-width: 25vw;
-  }
-  .card-white .faq-menu .text.active .answer {
-    font-size: 1em;
-    color: gray;
   }
 }

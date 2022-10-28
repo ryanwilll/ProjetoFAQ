@@ -194,7 +194,7 @@
     font-weight: 600;
     padding-top: 2em;
     box-sizing: border-box;
-    margin-left: 4.5em;
+    margin-left: 5em;
   }
   .card-white .faq-menu .text {
     border-bottom: 1px solid rgb(187, 186, 186);
@@ -209,13 +209,8 @@
   }
   .card-white .faq-menu .text .question {
     width: 25vw;
-    font-size: 1.2em;
   }
   .card-white .faq-menu .text .answer {
     max-width: 25vw;
-  }
-  .card-white .faq-menu .text.active .answer {
-    font-size: 1em;
-    color: gray;
   }
 }
