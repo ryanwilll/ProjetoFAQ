@@ -125,12 +125,6 @@
     align-content: center;
     overflow-x: hidden;
   }
-  .box-img {
-    position: absolute;
-    top: 18em;
-    left: 6.5em;
-    z-index: 1;
-  }
   .imgs {
     display: none;
   }
@@ -150,6 +144,18 @@
         no-repeat,
       url(../images/bg-pattern-desktop.svg) bottom -11em left -35em no-repeat;
     background-color: white;
+  }
+  .card-white::before {
+    content: "";
+    background: url(../images/illustration-box-desktop.svg) no-repeat;
+    width: 8.75em;
+    height: 11.8em;
+    position: absolute;
+    top: 23.5em;
+    left: -1.6%;
+    transform: translate(-55%, 10%);
+    animation: boxHop 2s ease-in-out;
+    animation-iteration-count: infinite;
   }
 
   .card-white .FAQ {

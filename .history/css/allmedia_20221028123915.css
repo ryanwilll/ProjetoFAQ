@@ -126,10 +126,6 @@
     overflow-x: hidden;
   }
   .box-img {
-    position: absolute;
-    top: 18em;
-    left: 6.5em;
-    z-index: 1;
   }
   .imgs {
     display: none;

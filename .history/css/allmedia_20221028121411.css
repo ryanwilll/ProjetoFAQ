@@ -125,12 +125,6 @@
     align-content: center;
     overflow-x: hidden;
   }
-  .box-img {
-    position: absolute;
-    top: 18em;
-    left: 6.5em;
-    z-index: 1;
-  }
   .imgs {
     display: none;
   }
@@ -148,8 +142,13 @@
 
     background: url(../images/illustration-woman-online-desktop.svg) center left -5em
         no-repeat,
-      url(../images/bg-pattern-desktop.svg) bottom -11em left -35em no-repeat;
+      url(../images/bg-pattern-desktop.svg) bottom -11em left -35em no-repeat,
+      url(../images/illustration-box-desktop.svg) no-repeat;
     background-color: white;
+    /*background-image: url(../images/illustration-woman-online-desktop.svg);
+    background-position: -5em center;
+    background-repeat: no-repeat;
+  */
   }
 
   .card-white .FAQ {

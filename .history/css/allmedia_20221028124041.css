@@ -127,9 +127,8 @@
   }
   .box-img {
     position: absolute;
-    top: 18em;
-    left: 6.5em;
-    z-index: 1;
+    top: 20em;
+    left: 4em;
   }
   .imgs {
     display: none;
