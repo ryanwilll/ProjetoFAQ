@@ -81,7 +81,7 @@ body {
   color: orange;
 }
 
-.card-white .faq-menu .text #question {
+.card-white .faq-menu .text .question {
   width: 80vw;
   margin: 1em 0em;
 }
@@ -97,7 +97,7 @@ body {
   margin: auto;
 }
 
-.card-white .faq-menu .text.active #question {
+.card-white .faq-menu .text.active .question {
   font-weight: bold;
 }
 
