@@ -29,7 +29,7 @@
     width: 1.5em;
     height: 1em;
   }
-  .card-white .faq-menu .text #question {
+  .card-white .faq-menu .text .question {
     font-size: 2em;
   }
   .card-white .faq-menu .text.active .answer {
@@ -67,7 +67,7 @@
     width: 1.5em;
     height: 1em;
   }
-  .card-white .faq-menu .text #question {
+  .card-white .faq-menu .text .question {
     font-size: 2em;
   }
   .card-white .faq-menu .text.active .answer {
@@ -105,7 +105,7 @@
     width: 1.5em;
     height: 1em;
   }
-  .card-white .faq-menu .text #question {
+  .card-white .faq-menu .text .question {
     font-size: 2.3em;
   }
   .card-white .faq-menu .text.active .answer {
@@ -207,7 +207,7 @@
   .card-white button img {
     margin: auto;
   }
-  .card-white .faq-menu .text #question {
+  .card-white .faq-menu .text .question {
     width: 25vw;
     font-size: 1em;
   }

@@ -207,9 +207,9 @@
   .card-white button img {
     margin: auto;
   }
-  .card-white .faq-menu .text #question {
+  .card-white .faq-menu .text .question {
     width: 25vw;
-    font-size: 1.2em;
+    font-size: 1em;
   }
   .card-white .faq-menu .text .answer {
     max-width: 25vw;
