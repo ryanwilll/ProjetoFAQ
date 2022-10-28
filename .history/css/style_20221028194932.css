@@ -111,10 +111,8 @@ body {
   animation: fade 1s ease-in-out;
 }
 
-.seta {
-  position: absolute;
-  margin-top: 1.4em;
-  margin-left: -1em;
+.seta{
+  
 }
 .card-white .faq-menu .text.active .seta {
   transform: rotate(180deg);

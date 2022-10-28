@@ -113,8 +113,7 @@ body {
 
 .seta {
   position: absolute;
-  margin-top: 1.4em;
-  margin-left: -1em;
+  margin-top: 2em;
 }
 .card-white .faq-menu .text.active .seta {
   transform: rotate(180deg);
