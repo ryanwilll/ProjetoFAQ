@@ -20,8 +20,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [FrontEnd Mentor](https://your-solution-url.com)
-- URL Live Server: [GitHub Pages](https://your-live-site-url.com)
+- URL da solução: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-5Tq0GgRf9O)
+- URL Live Server: [GitHub Pages](https://ryanwilll.github.io/ProjetoFAQ/)
 
 ### Desenvolvido com
 
